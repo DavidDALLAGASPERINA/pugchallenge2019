@@ -444,7 +444,7 @@ PROCEDURE initializeObject :
     edChangelog:FONT         = getFont('Fixed').
 
     btnDataDigger:LOAD-IMAGE(getImagePath('box.gif')).
-    imgPlayer:LOAD-IMAGE(getImagePath('player2.gif')).
+    imgPlayer:LOAD-IMAGE(getImagePath('player.gif')).
     imgBall:LOAD-IMAGE(getImagePath('ball.gif')).
 
     /* Set version name */
